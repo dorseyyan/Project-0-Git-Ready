@@ -11,7 +11,3 @@ GitHub Repository: [Project 0 - Git Ready](https://github.com/dorseyyan/Project-
 - **IDE:** Visual Studio Code
 - **Screencasting Software:** OBS Studio
 
-## How to Use This Project
-1. Clone the repository: 
-   ```bash
-   git clone https://github.com/dorseyyan/Project-0-Git-Ready.git
