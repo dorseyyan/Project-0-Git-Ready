@@ -7,7 +7,7 @@ public class DocumentPrinter implements Printable<String> {
 
     public static void main(String[] args) {
         DocumentPrinter printer = new DocumentPrinter();
-        printer.print("My first Java project!");
+        printer.print("This is an updated Java project!");
     }
 }
 
